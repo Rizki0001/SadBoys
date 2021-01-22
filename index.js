@@ -75,7 +75,7 @@ const { othermenu } require('./database/menu/othermenu')*/
 /******LOAD OF VCARD INPUT******/
 const vcard = 'BEGIN:VCARD\n' // metadata of the contact card
             + 'VERSION:3.0\n' 
-            + 'FN:Nazwa🖤\n' // full name
+            + 'FN:Iqbal Owner\n' // full name
             + 'ORG:Owner Bot;\n' // the organization of the contact
             + 'TEL;type=CELL;type=VOICE;waid=6281315995628:+62 813-1599-5628\n' // WhatsApp ID + phone number
             + 'END:VCARD'
